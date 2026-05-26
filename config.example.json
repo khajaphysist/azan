@@ -1,0 +1,13 @@
+{
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "timezone": "Etc/UTC",
+  "method": "MoonsightingCommittee",
+  "madhab": "Shafi",
+  "volumePercent": 100,
+  "audioSink": "alsa_output.platform-hdmi-sound.stereo-fallback",
+  "audio": {
+    "default": "audio/azan.mp3",
+    "fajr": "audio/azan-fajr.mp3"
+  }
+}

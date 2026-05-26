@@ -141,3 +141,9 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Local config (location, sink, audio paths) — copy from config.example.json
+config.json
+
+# Audio assets are user-provided, not committed
+audio/
